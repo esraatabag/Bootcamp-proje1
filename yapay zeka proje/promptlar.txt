@@ -1,0 +1,31 @@
+
+SİTE İÇİN YAZILAN PROMPT
+
+Bir web geliştiricisi olarak hareket etmeni istiyorum.  
+Ben kozmetik ürünlerle ilgili blog yazarlığı yapabileceğim bir blog web sitesi tasarlamanı istiyorum.   
+                                                                                
+Bu web sitesini HTML , CSS , Javascript kodlarıyla Bootstrap kütüphanesiyle kodlamanı istiyorum. 
+Semantik etiketlerin (header, main, nav, section, article, aside, footer) kullanılmasını da mutlaka istiyorum. 
+                                                                                                                                                                               
+Web sitesi mobil uyumlu ve duyarlı olmalıdır.                                                                                                                    
+Ayrıca düzen ve stil açısından site yapısında Bootstrap , CSS sınıflarının en son sürümünü de içermelidir.   
+                                                                                                                                                                       
+HTML , CSS , Javascript kodlarını ayrı olarak vermen önemli.  
+                                                    
+Sayfa içerisinde bir gezinme menüsü de eklemelisin.    
+                                                                              
+Yazılan kodların hiçbirine açıklama yapma. 
+
+Sayfa tasarımında istediğim bazı ek bilgiler vereceğim:
+Sayfada pembe ve mavi renklerin açık tonlarını kullanmanı istiyorum. 
+Sayfada h1 etiketindeki yazı renklerinin açık mor renk olmasını istiyorum.
+Sayfada paragraf yazı renklerinin ise siyah olmasını istiyorum. 
+Sayfada h2, h3 etiketindeki yazı renklerinin koyu pembe olmasını istiyorum.  
+
+
+
+GÖRSEL İÇİN YAZILAN PROMPT
+
+cosmetics, make-up, skin care, hair care
+
+
